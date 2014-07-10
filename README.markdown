@@ -14,9 +14,7 @@ This wallpaper should 'work' with both the dark and the light theme of [solarize
 
 Thanks to [@EspadaV8](https://github.com/Espadav8 "@EspadaV8") there's a dark version of this wallpaper now as well.
 
-![Dark Background](https://github.com/zhangdanyangg/vim_shortcut_wallpaper/blob/master/vim-shortcuts-dark_1280x800.png)
-
-![With Background](http://img193.imageshack.us/img193/3756/vimwallpaperbackground.png)
+![Dark Background](vim-shortcuts-dark_1280x800.png)
 
 We also have a version that preserves the gradient of the original, but changes the color to a nice soothing blue:
 
